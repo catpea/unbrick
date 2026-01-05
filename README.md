@@ -315,3 +315,11 @@ This package is designed with security in mind:
 **Status:** Production Ready ✅
 **Tested On:** Fedora Linux, ASUS B650E motherboard
 **Device:** ASUS AURA LED Controller (0b05:19af)
+
+## Dedication
+
+I dedicate this project to [+Fravia][1]
+![fravia.jpg](fravia.jpg)
+We are still learning from you, sir.
+
+[1]: https://en.wikipedia.org/wiki/Fravia

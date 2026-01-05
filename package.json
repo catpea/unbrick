@@ -9,6 +9,7 @@
     "unbrick-rgb-test": "bin/unbrick-rgb-test.js"
   },
   "scripts": {
+    "save": "git add .; git commit -m 'Updated Release'; npm version patch; npm publish; git push --follow-tags;",
     "test": "node tests/test-safe-operations.js"
   },
   "keywords": [
