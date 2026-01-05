@@ -319,7 +319,11 @@ This package is designed with security in mind:
 ## Dedication
 
 I dedicate this project to [+Fravia][1]
+
+
 ![fravia.jpg](fravia.jpg)
+
+
 We are still learning from you, Sir.
 
 [1]: https://en.wikipedia.org/wiki/Fravia
