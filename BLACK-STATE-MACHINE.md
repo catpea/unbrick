@@ -349,14 +349,13 @@ The BLACK STATE MACHINE methodology:
 
 ## Credits
 
-**Discovered by**: meow (2026-01-05)  
-**During**: ASUS AURA LED count reverse engineering  
-**Inspiration**: Hot shower epiphany  
+**Discovered by**: catpea (2026-01-05)
+**During**: ASUS AURA LED count reverse engineering
+**Inspiration**: Hot shower epiphany
 **Named**: BLACK STATE MACHINE (realm of BLACK BOXES)
 
 ---
 
-> "If you can reset it, you can model it.  
-> If you can model it, you can control it.  
+> "If you can reset it, you can model it.
+> If you can model it, you can control it.
 > Even UFOs."
-

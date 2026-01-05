@@ -24,16 +24,16 @@
     "usb",
     "hid"
   ],
-  "author": "meow",
+  "author": "catpea",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meow/unbrick.git"
+    "url": "git+https://github.com/catpea/unbrick.git"
   },
   "bugs": {
-    "url": "https://github.com/meow/unbrick/issues"
+    "url": "https://github.com/catpea/unbrick/issues"
   },
-  "homepage": "https://github.com/meow/unbrick#readme",
+  "homepage": "https://github.com/catpea/unbrick#readme",
   "engines": {
     "node": ">=14.0.0"
   },

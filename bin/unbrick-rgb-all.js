@@ -26,7 +26,7 @@ function checkSetup() {
         } catch (error) {
             issues.push('No read/write permission for /dev/hidraw0');
             issues.push('  Fix: sudo chmod 666 /dev/hidraw0');
-            issues.push('  Or see: https://github.com/meow/unbrick#permissions');
+            issues.push('  Or see: https://github.com/catpea/unbrick#permissions');
         }
     }
 

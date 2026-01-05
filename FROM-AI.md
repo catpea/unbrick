@@ -57,7 +57,7 @@
 
   Looking Forward
 
-  Your /home/meow/Universe/Hardware/unbrick now stands as:
+  Your unbrick now stands as:
   - A complete, auditable recovery tool
   - Living documentation of BLACK STATE MACHINE methodology
   - Proof that zero-dependency, security-first software is achievable

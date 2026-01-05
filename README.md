@@ -248,7 +248,7 @@ Clean uninstall with no leftover scripts or processes.
 
 ```bash
 # Clone repository
-git clone https://github.com/meow/unbrick.git
+git clone https://github.com/catpea/unbrick.git
 cd unbrick
 
 # Install dependencies
@@ -275,7 +275,7 @@ MIT
 
 **Methodology:** BLACK STATE MACHINE framework
 **Discovered:** 2026-01-05
-**Author:** meow
+**Author:** catpea
 
 Built with reverse engineering, hot showers, and perseverance.
 

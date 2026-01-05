@@ -118,7 +118,7 @@ Result: BLACK STATE MACHINE framework applicable to any unknown system.
 ## Key Files
 
 ```
-/home/meow/Universe/Hardware/unbrick/
+unbrick/
 ├── src/
 │   ├── aura-safe.js       ← Safe controller with BSM
 │   ├── protocol.js        ← Low-level USB protocol
@@ -141,7 +141,7 @@ Result: BLACK STATE MACHINE framework applicable to any unknown system.
 
 ### Quick Unbrick
 ```bash
-cd /home/meow/Universe/Hardware/unbrick
+cd unbrick
 npm install
 npm run unbrick
 ```
@@ -194,7 +194,7 @@ Possible additions:
 **Discovery Date:** 2026-01-05
 **Methodology:** BLACK STATE MACHINE
 **Inspiration:** Hot shower epiphany
-**Author:** meow
+**Author:** catpea
 
 **Built with:**
 - Systematic reverse engineering
