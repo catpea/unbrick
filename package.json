@@ -1,6 +1,6 @@
 {
   "name": "unbrick",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Safe ASUS AURA LED controller with automatic recovery using BLACK STATE MACHINE methodology",
   "main": "src/index.js",
   "bin": {
