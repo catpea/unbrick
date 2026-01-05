@@ -1,0 +1,49 @@
+{
+  "name": "unbrick",
+  "version": "1.0.0",
+  "description": "Safe ASUS AURA LED controller with automatic recovery using BLACK STATE MACHINE methodology",
+  "main": "src/index.js",
+  "bin": {
+    "unbrick-rgb-all": "bin/unbrick-rgb-all.js",
+    "unbrick-rgb-verify": "bin/unbrick-rgb-verify.js",
+    "unbrick-rgb-test": "bin/unbrick-rgb-test.js"
+  },
+  "scripts": {
+    "test": "node tests/test-safe-operations.js"
+  },
+  "keywords": [
+    "asus",
+    "aura",
+    "led",
+    "rgb",
+    "recovery",
+    "unbrick",
+    "black-state-machine",
+    "reverse-engineering",
+    "usb",
+    "hid"
+  ],
+  "author": "meow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meow/unbrick.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meow/unbrick/issues"
+  },
+  "homepage": "https://github.com/meow/unbrick#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "src/",
+    "bin/",
+    "docs/",
+    "README.md",
+    "LICENSE",
+    "INSTALL.md"
+  ]
+}
